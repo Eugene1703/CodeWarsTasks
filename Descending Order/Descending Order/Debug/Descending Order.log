@@ -1,0 +1,4 @@
+﻿  Descending Order.cpp
+C:\Users\Eugene\source\repos\Descending Order\Descending Order\Descending Order.cpp(16,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Eugene\source\repos\Descending Order\Descending Order\Descending Order.cpp(18,54): warning C4244: +=: преобразование "double" в "uint64_t", возможна потеря данных
+  Descending Order.vcxproj -> C:\Users\Eugene\source\repos\Descending Order\Debug\Descending Order.exe
