@@ -1,0 +1,5 @@
+﻿  Split Strings.cpp
+C:\Users\Eugene\source\repos\Split Strings\Split Strings\Split Strings.cpp(15,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Eugene\source\repos\Split Strings\Split Strings\Split Strings.cpp(27,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Eugene\source\repos\Split Strings\Split Strings\Split Strings.cpp(30,27): warning C4018: <: несоответствие типов со знаком и без знака
+  Split Strings.vcxproj -> C:\Users\Eugene\source\repos\Split Strings\Debug\Split Strings.exe
